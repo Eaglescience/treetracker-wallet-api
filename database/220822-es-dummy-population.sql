@@ -440,8 +440,8 @@ COPY public.transfer_audit (id, transfer_id, new_state, processed_at, approval_t
 
 COPY public.wallet (id, name, password, salt, logo_url, created_at) FROM stdin;
 bd1f1d1c-84c3-4775-85e8-c146b7ad2549	treebytree	7fc5b97521d1c857262c68cdc3bd6b5169ea2f39f2b994cbab12b353d6235d06dbbe59ff4a12f51b32a506c18c4a08db89209c8cdcc862481c52d88a484f29f1	yNaafoUXbjADJ1Zf55n5DCLDhE6od4XVFvIdVpiipro=	\N	2022-08-22 09:33:43.698305
-7dda0987-c624-46f4-a5f9-c29b8b1cb541    treebytree-claimed	\N	\N	\N	2022-08-22 09:37:33.733291
-ade06b06-4ecd-46e0-8684-63587cdc3bfd    treebytree-free	\N	\N	\N	2022-08-22 09:37:33.733291
+548bfb66-160b-489e-967b-553c602d644f	treebytree-claimed	\N	\N	\N	2022-08-22 09:37:33.733291
+6fb21e74-eb2c-4985-9ebf-28fd7bb03708	treebytree-free	\N	\N	\N	2022-08-22 09:38:09.187817
 \.
 
 
